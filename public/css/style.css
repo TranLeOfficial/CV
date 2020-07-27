@@ -1,11 +1,12 @@
 * {
     box-sizing: border-box;
 }
+
 /* CV-left */
 .left {
     background-color: lightgray;
 }
-.fa-graduation-cap, .fa-briefcase {
+.fa-graduation-cap, .fa-briefcase, .fa-building {
     font-size: 2rem;
     color: rgb(80, 177, 201);
 }
@@ -14,6 +15,10 @@
     font-weight: bold;
     text-transform: uppercase;
     color: black;
+}
+.education-tion {
+    margin-top: 100px;
+    border-bottom: 2px #fff solid;
 }
 .education {
     border-bottom: 2px #fff solid;
